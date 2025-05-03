@@ -21,26 +21,27 @@ A responsive web application built with React and Vite that emulates the core fe
 
 ## 📂 Project Structure
 
+```bash
 Spotify-Clone/
 ├── src/
-│ ├── components/
-│ │ ├── AlbumItem.jsx
-│ │ ├── Display.jsx
-│ │ ├── DisplayAlbum.jsx
-│ │ ├── DisplayHome.jsx
-│ │ ├── Navbar.jsx
-│ │ ├── Player.jsx
-│ │ ├── Sidebar.jsx
-│ │ └── SongItem.jsx
-│ ├── assets/
-│ │ ├── images
-│ ├── context/
-│ │ ├── PlayerContext.jsx
-│ ├── App.jsx
-│ ├── index.css
-│ ├── main.jsx
-│ └── styles/
-│ └── app.css
+│   ├── components/
+│   │   ├── AlbumItem.jsx
+│   │   ├── Display.jsx
+│   │   ├── DisplayAlbum.jsx
+│   │   ├── DisplayHome.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Player.jsx
+│   │   ├── Sidebar.jsx
+│   │   └── SongItem.jsx
+│   ├── assets/
+│   │   ├── images
+│   ├── context/
+│   │   ├── PlayerContext.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── styles/
+│       └── app.css
 ├── public/
 ├── .gitignore
 ├── eslint.config.js
@@ -51,5 +52,6 @@ Spotify-Clone/
 ├── tailwind.config.js
 ├── vite.config.js
 └── README.md
+
 
 
