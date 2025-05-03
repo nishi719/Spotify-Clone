@@ -40,9 +40,6 @@ Spotify-Clone/
 │   ├── App.jsx
 │   ├── index.css
 │   ├── main.jsx
-│   └── styles/
-│       └── app.css
-├── public/
 ├── .gitignore
 ├── eslint.config.js
 ├── index.html
@@ -53,5 +50,14 @@ Spotify-Clone/
 ├── vite.config.js
 └── README.md
 
+```
+
+## 🔧 Installation & Usage
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/nishi719/Spotify-Clone.git
+
+   ```
 
 
